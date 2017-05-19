@@ -1,5 +1,5 @@
 # logs-analysis
-Informative summary from logs (just messing around with python and SQL).
+Reporting tool that summarizes data from a large database (just messing around with python and SQL).
 
 Prerequisites
 -------------
